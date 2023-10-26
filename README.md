@@ -1,0 +1,2 @@
+# Arabic-dictionary
+Almaany dictionaries
